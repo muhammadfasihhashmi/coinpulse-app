@@ -13,7 +13,7 @@ function Header() {
         <Link href={"/"}>
           <div className="relative h-10 w-39 ">
             <Image
-              src={"logo.svg"}
+              src={"/logo.svg"}
               alt="coinpulse logo"
               fill
               className="object-cover"
